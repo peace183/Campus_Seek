@@ -2,7 +2,7 @@
 
 |                        |                              |
 |------------------------|------------------------------|
-| **Product Name**       | CampusSeek                   |
+| **Product Name**       | Campus_Seek                   |
 | **Team Name**          | Prometheus                   |
 | **Team members**       | Nguyen Thai Binh 1403735     |
 |                        | Nguyen Dung Phuong  1304949  |
