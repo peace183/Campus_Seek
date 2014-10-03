@@ -5,7 +5,7 @@
 | User group | Brief definition | Definition |
 |--------|--------|---------|
 | Administrator | Manager of the entire system | The administrator is the most powerful user in the system. The user can manage all users in the CampusSeek's network, performing check up and imposing ban on abusing users. Administrator can access all user's information except for personal login credentials |
-| Student or Registered User | Student on the campus or anyone who want to register into the campus network | The student account provide basic access to system features, such as tracking friends, adding friends, setting status, editing personal profile, requesting help |
+| Student or Registered User | Student on the campus or anyone who want to register into the campus network | The student account provide basic access to system features, such as tracking friends, adding friends, updating status, editing personal profile, requesting help |
 | Staff | Staff on the campus (include teacher)| The staff account basically carry over all student's account functionalities, plus the capability to obtain all student location and status (if the user is not hiding it) without having to add them as friend |
 | Guest | People who are not part of the campus | The guest account is provided with very basic features, the user can only track his/her own location and navigate around the campus without being able to track anyone else |
 
@@ -14,17 +14,17 @@
 
 | Primary Actor                | Use Cases           |
 | ---------------------------- | ------------------- |
-| Administrator                | Add user            |
+| Administrator                | Create user         |
 |                              | Delete user         |
 |                              | Edit user           |
 |                              | Ban user            |
 |                              | Log in              |
 |                              | Log out             |
 |                              | Edit profile        |
-|                              | See profile         |
-|                              | Set status          |
-|                              | See friend list     |
-|                              | Search for people   |
+|                              | View profile        |
+|                              | Update status       |
+|                              | View friend list    |
+|                              | Search users        |
 |                              | **Add friend**      |
 |                              | Track any           |
 |                              | Navigate on map     |
@@ -34,10 +34,10 @@
 | Student or Registered User   | Log in              |
 |                              | Log out             |
 |                              | Edit profile        |
-|                              | See profile         |
+|                              | View profile        |
 |                              | Set status          |
-|                              | See friend list     |
-|                              | Search for people   |
+|                              | View friend list    |
+|                              | Search users        |
 |                              | **Add friend**      |
 |                              | **Track friend**    |
 |                              | Navigate on map     |
@@ -47,9 +47,9 @@
 | Staff                        | Log in              |
 |                              | Log out             |
 |                              | Edit profile        |
-|                              | See profile         |
-|                              | Set status          |
-|                              | See friend list     |
+|                              | View profile        |
+|                              | Update status       |
+|                              | View friend list    |
 |                              | Search for people   |
 |                              | **Add friend**      |
 |                              | Track any           |
@@ -64,7 +64,7 @@
 
 ##2.3. Use Case Diagram
 
-![alt text](https://raw.githubusercontent.com/peace183/software_engineering_2014_template/master/final_project.png "Use Case Diagram")
+![alt text](https://raw.githubusercontent.com/peace183/Campus_Seek/master/Campus_Seek.png "Use Case Diagram")
 
 ##2.4. Main use cases
 
