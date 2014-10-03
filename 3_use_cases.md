@@ -4,7 +4,7 @@
 
 | User group | Brief definition | Definition |
 |--------|--------|---------|
-| Administrator | Manager of the entire system | The administrator is the most powerful user in the system. The user can manage all users in the Campus_Seek's network, performing check up and imposing ban on abusing users. Administrator can access all user's information except for personal login credentials |
+| Administrator | Manager of the entire system | The administrator is the most powerful user in the system. The user can manage all users in the CampusSeek's network, performing check up and imposing ban on abusing users. Administrator can access all user's information except for personal login credentials |
 | Student or Registered User | Student on the campus or anyone who want to register into the campus network | The student account provide basic access to system features, such as tracking friends, adding friends, setting status, editing personal profile, requesting help |
 | Staff | Staff on the campus (include teacher)| The staff account basically carry over all student's account functionalities, plus the capability to obtain all student location and status (if the user is not hiding it) without having to add them as friend |
 | Guest | People who are not part of the campus | The guest account is provided with very basic features, the user can only track his/her own location and navigate around the campus without being able to track anyone else |
