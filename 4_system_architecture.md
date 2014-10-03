@@ -13,3 +13,20 @@ CampusSeek is a mobile app which act as a client. The client will connect to the
 
 ##4.2. Main modules and their functions represented
 [Awaiting reply from Olli on how to complete this section]
+
+
+
+![alt text](https://raw.githubusercontent.com/peace183/Campus_Seek/master/Campus_Seek_Architecture.png "Campus_Seek Architecture")
+
+Fig. 1. Architecture of the CampusSeek
+
+
+
+**[Need to add context model this below is a draft ]**
+
+
+
+
+![alt text](https://raw.githubusercontent.com/peace183/Campus_Seek/master/Context_model_Draft.png "Campus_Seek Contextmodel")
+
+
