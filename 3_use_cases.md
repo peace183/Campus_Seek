@@ -93,8 +93,9 @@
 
 |                   |                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Use case ID**   | 2                                                                                                               |
 | **Use case name** | Track friend                                                                                                    |
-| **Actors**        | Administrator, Student, Staff                                                                                   |
+| **Actors**        | Student or Registered User                                                                                      |
 | **Description**   | The actors can track their friend's location inside the campus and will be guided there                         |
 | **Initial state** | 1. User has signed up                                                                                           |
 |                   | 2. User has verified account                                                                                    |
