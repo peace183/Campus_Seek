@@ -9,7 +9,7 @@ Fig. 1. Simple High-level overview of the CampusSeek system
 
 ##4.2. Main modules and their functions represented
 
-**[Need to add context model this below is a draft ]**
+
 
 ![alt text](https://raw.githubusercontent.com/peace183/Campus_Seek/master/context_model.png "Campus_Seek Context model")
 
