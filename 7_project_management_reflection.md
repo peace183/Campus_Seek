@@ -1,4 +1,4 @@
-### Project management
+# Project management
 
 Our project is based on an actual prototype application which uses indoor position system called "KANA". The most difficult part in this project is the brainstorming, coming up with new ideas to provide better solutions for the outdated prototype. Another difficulty in the documentation process is the thinking of how to divide the main modules and represent their functions, due to the lack of experience, the final outcome may not be an ideal model for a practical application. Perhaps in time, we will be able to create better and more logical model.
 

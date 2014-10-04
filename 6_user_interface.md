@@ -1,4 +1,4 @@
-### User interface
+# User interface
 
 We show below briefly the view and the components of the UI, which will be explained in words.
 
